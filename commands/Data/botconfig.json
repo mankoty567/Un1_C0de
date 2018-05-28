@@ -1,6 +1,6 @@
 {
     "token": "Entrez ici le token du bot",
-    "prefix": "!",
-    "mute": true,
+    "prefix": "Prefixe du bot",
+    "mute": "Pour activer ou non le mode mute. Il suffit de remplacer par true ou false , sans guillemets",
     "log": "423108093707157504"
 }
